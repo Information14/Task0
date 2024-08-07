@@ -1,0 +1,16 @@
+Data Science and Machine Learning:
+
+TensorFlow: An open-source platform for machine learning.
+GitHub: https://github.com/tensorflow/tensorflow
+
+PyTorch: A Python-based machine learning library.
+GitHub: https://github.com/pytorch/pytorch
+
+Scikit-learn: A machine learning library for Python.
+GitHub: https://github.com/scikit-learn/scikit-learn
+
+Pandas: A data manipulation and analysis library.
+GitHub: https://github.com/pandas-dev/pandas
+
+NumPy: The fundamental package for scientific computing with Python.
+GitHub: https://github.com/numpy/numpy
